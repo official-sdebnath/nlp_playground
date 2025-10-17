@@ -1,0 +1,8 @@
+nltk
+spacy
+gensim
+scikit-learn
+matplotlib
+wordcloud
+streamlit
+ipykernel
