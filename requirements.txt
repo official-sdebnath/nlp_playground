@@ -6,3 +6,7 @@ matplotlib
 wordcloud
 streamlit
 ipykernel
+datasets
+tqdm
+plotly
+nbformat>=4.2.0
