@@ -9,4 +9,7 @@ ipykernel
 datasets
 tqdm
 plotly
-nbformat>=4.2.0
+nbformat
+jupyterlab
+ipywidgets
+notebook
